@@ -18,6 +18,8 @@ I’ve been hyping up a brilliant book that I read recently to literally anyone 
 
 The chapter that struck me as most immediately applicable to my life, however, is titled “Afternoons and Coffee Spoons: The Power of Breaks, the Promise of Lunch, and the Case for a Modern Siesta.”  For the sake of length, I won’t go into quite the same level of detail as Mr. Pink, but I’d at least like to share a few of his tips and tricks that I’ve begun to implement into my routine during my nascent journey into the world of programming; perhaps you’ll find them helpful, as well!
 
+<hr>
+
 There’s nothing more dangerous and frenetic and weirdly beautiful than a programmer in the throes of a coding binge.  Laser focused, fingers blazing, cranking out lines of code as if their lives—or at least their jobs—depended on it, programmers typically display a truly admirable work ethic.  
 
 <iframe src="https://giphy.com/embed/13HgwGsXF0aiGY" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/13HgwGsXF0aiGY"></a></p>
@@ -49,6 +51,8 @@ However, research out of South Korea shows that “social breaks—talking with 
 <iframe src="https://giphy.com/embed/3o6fIZP7rywPQyEV44" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/coventryuniversity-answer-quiz-3o6fIZP7rywPQyEV44"></a></p>
 
 The same South Korean study from earlier determined that you’re not.  Attempting to combine our breaks with other “cognitively demanding [activities]” defeats the purpose of taking a break in the first place, while the study showed that “relaxation breaks (stretching or daydreaming) eased stress and boosted mood in a way that multitasking breaks did not.”  Moreover, “tech-free breaks… ‘increase vigor and reduce emotional exhaustion.’ ”  Don’t be afraid to check out and tune out the world for a moment.  Don’t be afraid to walk away from your work or (*gasp*) your extraprofessional social life for 5-10 minutes at a time.  I guarantee it’ll all still be there when you get back. 
+
+<hr>
 
 Again, what I love about all these guidelines and strategies is how incredibly easy they are to implement into a daily routine, and how great the return on investment is for relatively minimal effort.  Unless you live in Spain, you likely won’t have the chance to leave work and go home for lunch, and unless you work remotely, you probably won’t be able to take a nap during the workday.  But what you’ll almost definitely have is a handful of opportunities to get away from your desk—or at the very least stand up and look away from your monitor—on a fairly regular basis.  Use them to your advantage and embrace the break!  The work we do as programmers is mentally grueling, often solitary, and yes, physically taxing in its own way.  We shouldn’t let our biological need for rest and variety fall by the wayside in favor of our dedication to that work.
 
