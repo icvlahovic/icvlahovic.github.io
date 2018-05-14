@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "CLImbing the Ruby Ridge"
-date:       2018-05-14 08:29:58 +0000
+date:       2018-05-14 04:29:59 -0400
 permalink:  climbing_the_ruby_ridge
 ---
 
@@ -36,7 +36,7 @@ I’ll spare you the details of my work flow—which involves spurts of producti
 
 I had inspected The Wirecutter’s HTML every day for a week before and while I built the app to confirm that it was consistent.  I had taken meticulous notes on which CSS selectors I should use to parse only the necessary data and nothing superfluous.  Everything had functioned exactly to my specifications for three days in a row.  And yet when I ran the program one morning, there was no website data output to my console; NONE of the scraping methods worked.  Obviously, I freaked out for a few minutes, pulling my hair out and frantically checking my code to see if I had accidentally changed something.  
 
-<iframe src="https://giphy.com/embed/OfOgRebxD0CGI" width="480" height="426" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/fuception-OfOgRebxD0CGI"></a></p>
+<iframe src="https://giphy.com/embed/fQZX2aoRC1Tqw" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/fQZX2aoRC1Tqw"></a></p>
 
 I hadn’t, but upon inspecting that specific article’s HTML, I realized that one of the programmers at The Wirecutter had: this article had entirely different code from its predecessors!  I decided on a fairly quick fix and created a new `alt_text` variable within my `#self.display` method that scraped the same content using this newly named set of tags without eliminating my original code that had worked up to this point.  My hope is that the good folks over at The Wirecutter won’t throw any more monkey wrenches into—aaaaaand speak of the devil, I just had to debug something else (this time, they decided to change a `<div>` to a `<section>`!), but I suppose this is just a part of the learning process.  Things will break, and it’ll be up to you to figure out how to fix them.  It’s initially frustrating, at least for a perfectionist like me who would prefer that everything go exactly as planned on the first run without a single hitch, but eventually, you catch a sort of stride: something doesn’t do what you’d like it to do, you diagnose the problem, and you (hopefully) solve the problem.
 
